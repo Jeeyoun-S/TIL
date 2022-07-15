@@ -20,7 +20,7 @@
 - `git init` 명령어로 로컬 저장소 생성
 - .git 디렉토리에 버전 관리에 필요한 모든 것이 들어있다.
   
-## Commit 문법
+## Git 문법
 - `git status` 현재 git으로 관리되고 있는 파일들의 상태
 - `git config --global user.email "you@example.com"`  
   `git config --global user.name "Your Name"`
