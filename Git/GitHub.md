@@ -57,7 +57,6 @@
     지금까지 Local Repository에서만 작업, GitHub와 연동X
     
     - `git remote add origin remote_repo`
-    - `git push -u origin master`
     - `git push A(어디로) B(branch)`
     - `git push -u origin master`
         - 실행 후 `git push`만 해도 `git push origin master`로
