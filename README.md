@@ -1,5 +1,4 @@
 # TIL: Today I Learned
----
 ### Git 사용법
  * [Markdown](https://github.com/Jeeyoun-S/TIL/blob/master/Markdown.md) :memo:
  * Git :clipboard:
