@@ -17,13 +17,9 @@
     - 이미지
         - `![string](img_url)`
         - .assets 폴더를 만들어서 자동으로 이미지 저장
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/95b75d64-7298-450a-872a-b76582085193/Untitled.png)
-        
     - 텍스트 강조
         - `**` **Bold
         - `*` 기울임
         - `~~` 취소선
     - 수평선
-        
         *`-`* 또는 `*` 또는 `_`  3번 입력
