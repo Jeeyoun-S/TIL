@@ -25,7 +25,7 @@
 - `git config --global user.email "you@example.com"`
 - `git config --global user.name "Your Name"`
 - `git log` git의 commit 히스토리
-- `git diff ID_A ID_B` commit 비교→ 순서에 따라 기준이 달라진다. A가 기준.
+- `git diff ID_A ID_B` commit 비교 → 순서에 따라 기준이 달라진다. ID_A가 기준.
     
 ## Git Commit 실습
 
@@ -41,9 +41,7 @@
 
 ## Local과 Remote
 - **Local → Remote Repository 연결**
-    
-    지금까지 Local Repository에서만 작업, GitHub와 연동X
-    
+    - 지금까지 Local Repository에서만 작업, GitHub와 연동X
     - `git remote add origin remote_repo`
     - `git push A(어디로) B(branch)`
     - `git push -u origin master`
@@ -53,4 +51,4 @@
 - **Remote → Local Repository 연결**
     - `git clone remote_repo` Remote repo를 local로 복사
     - ↔ `git push origin master` Local repo의 최신 커밋을 Remote repo로 push합니다.
-    - *past.py* 파일 만든 뒤, Commit 및 Push하기
+    - **실습**: *past.py* 파일 만든 뒤, Commit 및 Push하기
