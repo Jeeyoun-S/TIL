@@ -13,7 +13,8 @@
         - ``` 코드 블럭, 사용 예시 ``` python Enter print("Hello")````
         - ` 인라인 코드 블럭 (문자열 속에 코드를 넣고 싶을 때)
     - 링크
-        - `[string](url)` **string은 보여지는 부분, url은 연결할 부분
+        - `[string](url)`
+        - string은 보여지는 부분, url은 연결할 부분
     - 이미지
         - `![string](img_url)`
         - .assets 폴더를 만들어서 자동으로 이미지 저장
