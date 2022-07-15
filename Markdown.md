@@ -9,7 +9,7 @@
 - 리스트
     - 순서 없음 `*` 또는 `-`
     - 순서 있음 `1. 2. 3.`
-    - <span style="color:red">*Enter 2번*</span> 또는 *Shift + Tab* 내어 쓰기로 없애기
+    - <span style="color: red">*Enter 2번*</span> 또는 *Shift + Tab* 내어 쓰기로 없애기
 - 코드 블럭
     - 코드 블럭(```)
     - 인라인 코드 블럭 (`)(문자열 속에 코드를 넣고 싶을 때)
