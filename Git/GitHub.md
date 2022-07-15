@@ -39,7 +39,7 @@
     - `git config --global user.name "Your Name"`
     - `git log` **git의 commit 히스토리
     - `git diff **ID_A ID_B` commit 비교→ 순서에 따라 기준이 달라진다. A가 기준.
-    - 
+   
 - **Commit 생성하기**
     1. *readme.md* 파일 `git add .` 후 `git commit` **하기
     2. `git commit`과 `git commit -m “(file_name)”`  
