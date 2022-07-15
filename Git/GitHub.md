@@ -37,11 +37,11 @@
     - `git status` 현재 git으로 관리되고 있는 파일들의 상태
     - `git config --global user.email "you@example.com"`
     - `git config --global user.name "Your Name"`
-    - `git log` **git의 commit 히스토리
-    - `git diff **ID_A ID_B` commit 비교→ 순서에 따라 기준이 달라진다. A가 기준.
+    - `git log` git의 commit 히스토리
+    - `git diff ID_A ID_B` commit 비교→ 순서에 따라 기준이 달라진다. A가 기준.
    
 - **Commit 생성하기**
-    1. *readme.md* 파일 `git add .` 후 `git commit` **하기
+    1. *readme.md* 파일 `git add .` 후 `git commit` 하기
     2. `git commit`과 `git commit -m “(file_name)”`  
     3. *readme.md*에 한 줄 더한 뒤 커밋 재생성 
     4. `git commit -m “update”`
@@ -50,7 +50,7 @@
     1. 바탕화면에 *edu_git_commit* 폴더를 만들고 git 저장소 생성
     2. *a.txt* 파일 만들고, `add a.txt`라는 커밋메세지로 커밋 만들기
     3. *b.txt* 파일 만들고, `add b.txt`라는 커밋메세지로 커밋 만들기
-    4. a.txt 파일 수정하고, `update a.txt`라는 커밋메세지로 커밋 만들기
+    4. *a.txt* 파일 수정하고, `update a.txt`라는 커밋메세지로 커밋 만들기
 
 - **Local → Remote Repository 연결**
     
