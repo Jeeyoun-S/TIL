@@ -7,8 +7,9 @@
 - ***GitLab*** - 저장할 수 있는 서버를 내가 설정 가능 → 그래서 우리가 사용! (GitLab ≠ Git)
 - ***GitHub*** - 공개적 / 전세계에 있는 사람들에게 나를 표현 가능, 포트폴리오
 
-## CLI (Command Line Interface)
-- **CLI **
+## CLI
+- **CLI VS GUI**
+    - Command Line Interface VS Graphic User Interface
     - **CLI**(GUI를 명령어로, 개발자) ↔ **GUI**(그래픽으로 사용자와 컴퓨터가 상호작용, 개인)
     - CLI로만 할 수 있는 것도 있고, GUI보다 컴퓨터의 resource가 절약된다.
     - GUI 화면에 그래픽으로 전부 보여주기 힘들어서 CLI는 개발할 때 많이 쓴다.
