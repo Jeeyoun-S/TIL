@@ -6,14 +6,14 @@
 - **Working Directory** *untracked(아직 버전 관리X, 최소의 상태)*
     - 내가 작업하고 있는 실제 디렉토리
 - **Staging Area** *staged, tracked*
-    - `git add`로 변경 사항을 **Working → Staging**으로
+    - `git add`로 변경 사항을 Working → Staging으로
     - 커밋으로 남기고 싶은, 특정 버전으로 관리하고 싶은 파일이 있는 곳 
     - **중간에 Staging Area를 거쳐야 하는 이유?**
         - 특정 변경사항만 저장하고 싶어서, 모든 변경사항 저장X   
 - **Repository** *tracked, committed*
-    - `git commit`으로 커밋을 만든다. **Staging → Repository**
+    - `git commit`으로 커밋을 만든다. Staging → Repository
     - 커밋들이 저장되는 곳 (.git 디렉토리를 가리킨다)
-    - 수정할 때 *modified, tracked* 상태로 **Repository → Working**로
+    - 수정할 때 *modified, tracked* 상태로 Repository → Working로
         
 ## Repository
 - 특정 디렉토리를 버전 관리하는 저장소 (폴더를 기준으로 버전 관리)
