@@ -2,7 +2,7 @@
 - 특정 버전으로 남긴다 = “커밋(Commit)한다”
 - 커밋(Commit)은 3가지 영역을 바탕으로 동작!
 
-## Committ 3가지 영역
+## Commit 3가지 영역
 - **Working Directory** *untracked(아직 버전 관리X, 최소의 상태)*
     - 내가 작업하고 있는 실제 디렉토리
 - **Staging Area** *staged, tracked*
