@@ -22,7 +22,7 @@
   
 ## Commit 문법
 - `git status` 현재 git으로 관리되고 있는 파일들의 상태
-- `git config --global user.email "you@example.com"`
+- `git config --global user.email "you@example.com"` 
   `git config --global user.name "Your Name"`
 - `git log` git의 commit 히스토리
 - `git diff ID_A ID_B` commit 비교 → 순서에 따라 기준이 달라진다. ID_A가 기준.
