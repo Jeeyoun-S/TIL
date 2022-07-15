@@ -25,7 +25,7 @@
 - `git config --global user.email "you@example.com"`  
   `git config --global user.name "Your Name"`
 - `git log` git의 commit 히스토리
-  ![git log](https://www.notion.so/Git-2f8fc63fdea04cb1a230af53048c0b9a#0990277ad8c34de0ba9d16d4d79afb87)
+  ![git log](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eaad7004-7a2b-40fc-8abb-bc0b629d745e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220715%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220715T081821Z&X-Amz-Expires=86400&X-Amz-Signature=3f4293c1db9ebcae6b5fbce7e06ab58ac81dbd119071da97c58d431199a28803&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 - `git diff ID_A ID_B` commit 비교 → 순서에 따라 기준이 달라진다. ID_A가 기준.
     
 ## Commit 실습
