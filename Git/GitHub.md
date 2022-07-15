@@ -26,18 +26,7 @@
   `git config --global user.name "Your Name"`
 - `git log` git의 commit 히스토리   
 - `git diff ID_A ID_B` commit 비교 → 순서에 따라 기준이 달라진다. ID_A가 기준.  
-    
-## Commit 실습
-- **Commit 재생성**
-    1. *readme.md* 파일 `git add .` 후 `git commit` 하기
-    2. `git commit`과 `git commit -m “(file_name)”`  
-    3. *readme.md*에 한 줄 더한 뒤 커밋 재생성 
-
-- **Git Commit**
-    1. 바탕화면에 *edu_git_commit* 폴더를 만들고 git 저장소 생성
-    2. *a.txt* 파일 만들고, `add a.txt`라는 커밋메세지로 커밋 만들기
-    3. *b.txt* 파일 만들고, `add b.txt`라는 커밋메세지로 커밋 만들기
-    4. *a.txt* 파일 수정하고, `update a.txt`라는 커밋메세지로 커밋 만들기
+- `git commit`과 `git commit -m “(file_name)”`  
 
 ## Local과 Remote
 - **Local → Remote Repository 연결**
@@ -46,9 +35,7 @@
     - `git push A(어디로) B(branch)`
     - `git push -u origin master`
         - 실행 후 `git push`만 해도 `git push origin master`로
-    - **실습**: *readme.md* 파일 수정 후 다시 push하기
  
 - **Remote → Local Repository 연결**
     - `git clone remote_repo` Remote repo를 local로 복사
     - ↔ `git push origin master` Local repo의 최신 커밋을 Remote repo로 push합니다.
-    - **실습**: *past.py* 파일 만든 뒤, Commit 및 Push하기
