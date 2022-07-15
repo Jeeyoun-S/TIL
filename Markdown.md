@@ -1,6 +1,7 @@
 - **Markdown**
     - 텍스트 기반의 가벼운 마크업 언어, 문서의 구조와 내용을 쉽고 빠르게
     - Jupyter notebook, notion, Typora
+
 - **Markdown 문법**
     - 헤딩
         - *`**#**`* 개수에 따라 사용, h1~h6
